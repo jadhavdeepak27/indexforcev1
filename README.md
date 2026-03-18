@@ -1,3 +1,8 @@
+## 🚀 [Try the Live Tool →](https://jadhavdeepak27.github.io/indexforce/google-indexing-tool.html)
+
+[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-Try%20IndexForce%20Now-00ff88?style=for-the-badge)](https://jadhavdeepak27.github.io/indexforce/google-indexing-tool.html)
+
+
 [README.md](https://github.com/user-attachments/files/26087050/README.md)
 # ⬡ IndexForce — Google Indexing API Automation Tool
 
